@@ -36,4 +36,7 @@ Exploratory Data Analysis, it is a technique that data professionals use to unde
 # Video Explanation:
 https://drive.google.com/file/d/1BuNhRrahW8H6N59hCMxAHyZVI302ArVc/view?usp=sharing
 
+# PPT Presentation:
+https://drive.google.com/file/d/15NDrO8O6Kng_mODMLZebHbA2iOQXWaKw/view?usp=sharing
+
 
